@@ -12,21 +12,21 @@
     
     
     <item>
+      <title>如何用 hugo 搭建个人博客</title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 22 Mar 2020 10:30:00 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何用 hugo 搭建个人博客  去下载hugo; 把hugo的目录放入path中; 重启终端，运行hugo version查看版本; 进入hugo官网，点击QuickStart进入; 抄step2-step7的命令行; 得到一个public的目录，这就是博客; 使用hugo server预览; 可以在官网的hugo themes中挑选主题;  </description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
       <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Sun, 22 Mar 2020 10:30:00 +0800</pubDate>
       
       <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好 很高兴认识大家，一起加油！</description>
-    </item>
-    
-    <item>
-      <title>22222</title>
-      <link>http://example.org/posts/22222/</link>
-      <pubDate>Sun, 01 Mar 2020 10:30:00 +0800</pubDate>
-      
-      <guid>http://example.org/posts/22222/</guid>
-      <description>22222 222222</description>
     </item>
     
   </channel>
