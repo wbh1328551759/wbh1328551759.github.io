@@ -20,5 +20,14 @@
       <description>大家好 很高兴认识大家，一起加油！</description>
     </item>
     
+    <item>
+      <title>22222</title>
+      <link>http://example.org/posts/22222/</link>
+      <pubDate>Sun, 01 Mar 2020 10:30:00 +0800</pubDate>
+      
+      <guid>http://example.org/posts/22222/</guid>
+      <description>22222 222222</description>
+    </item>
+    
   </channel>
 </rss>
